@@ -1,0 +1,8 @@
+{
+  "BBugeja": {
+    "username": "BBugeja",
+    "email": "bendbug@gmail.com",
+    "password": "$argon2id$v=19$m=65536,t=2,p=4$v0l0/Y3Ri5tkdhx0PxnvAw$zxunjmTcN2lNyhVTXb2z+zt09gtSYjuCQT2uOyuG5MQ",
+    "salt": "b1281dfbc507060b0d4f716c2e2ed47d"
+  }
+}
